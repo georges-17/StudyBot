@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #4CAF50;
+    text-align: center;
+}
+
+.stButton>button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.stButton>button:hover {
+    background-color: #45a049;
+}
